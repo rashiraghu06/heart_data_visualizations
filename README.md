@@ -1,4 +1,4 @@
-# heart_visualizations_ml
+# heart_data_visualizations
 
 This code was created in partial fulfillment of the requirements for the Final Project in CS 185C in SJSU.
 
